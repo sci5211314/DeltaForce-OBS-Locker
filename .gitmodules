@@ -1,3 +1,11 @@
 [submodule "yolov14"]
 	path = yolov14
 	url = https://github.com/zhangcbb/yolov14.git
+[submodule "Desktop"]
+	path = Desktop
+	url = https://github.com/ace-trump-tech/DeltaForce-Locker.git
+	branch = desktop
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/ace-trump-tech/DeltaForce-Locker.git
+	branch = mobile
